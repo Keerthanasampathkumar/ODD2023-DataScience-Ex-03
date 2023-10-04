@@ -143,14 +143,27 @@ sns.boxplot(x='Row ID',data=df)
 ![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/89ca409a-e728-4468-8fb8-32190a40c6ca)
 
 ### Distributionplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/d648d30f-dc93-46e7-9050-820465cf62f5)
+
+### Histogramplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/6f0b9105-5269-467a-8222-a11817c735e5)
+
+### Skewness
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/420e789a-5255-46f7-b13d-9b07a45f97e3)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/b8803116-efb2-40c3-a904-1efc7b036d70)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/605d8f61-88dd-4d3f-b188-e8f4f2213d3a)
 
 
+### Kurtosis
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/353d29a0-ee21-4abc-83a4-24b1206b5ffc)
 
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/0de2e933-35de-4c94-84d7-fe803581165b)
 
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/bc41081a-eff6-41ff-adb1-dc0507518556)
 
-
-
-
+## For SuperStore.csv file
 
 
 
