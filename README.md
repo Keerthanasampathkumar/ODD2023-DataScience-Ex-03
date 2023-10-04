@@ -165,6 +165,48 @@ sns.boxplot(x='Row ID',data=df)
 
 ## For SuperStore.csv file
 
+### Data frame
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/6b9b4bcd-85f7-4313-8a19-23045e83788e)
+
+### Data information
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/070ae8c7-91af-44a2-b680-e94a0d106de5)
+
+### Data type and value count
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/adc8a93b-5148-43e4-8706-2a4d018a62ae)
+
+### Describing a data
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/aff271bc-c437-4734-a6a6-6e538a0bf4cd)
+
+### Boxplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/d12f59f8-660a-4959-88b4-a754055c6fc4)
+
+### Countplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/892c7a7f-203e-42db-8999-99574f5efb53)
+
+### Distributionplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/756f81d9-c568-4260-91c8-01f5d09ac11a)
+
+### Histogramplot
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/14d62d8d-d4fc-4a16-9017-fd6253f5b342)
+
+### Skewness
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/ace1388c-f70c-471b-b7b5-707566bf1b72)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/0cfe7b91-cc4f-4724-9b40-0b11614f4aca)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/64972a30-e451-492d-9df0-964bab1ebc26)
+
+### Kurtosis
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/f85513ec-c0b2-4253-92e5-d3ec7e3d8d13)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/ddb6992a-4d5c-4001-bd1f-ec58225e16fd)
+
+![image](https://github.com/Keerthanasampathkumar/ODD2023-DataScience-Ex-03/assets/119477890/0ec66ded-a9b5-4fa5-8e3e-4c8adc8ac305)
+
+## RESULT:
+Thus we have read the given data and performed the univariate analysis with different types of plots.
+
+
 
 
 
